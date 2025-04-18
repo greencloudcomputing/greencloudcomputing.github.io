@@ -62,6 +62,8 @@ Across the globe, billions of devices spend significant portions of their time i
 
 While most global estimates focus on data center-class GPUs and TPUs — estimated at approximately 3.98 × 10²¹ FLOPS in 2023 ([wiki.aiimpacts.org](https://wiki.aiimpacts.org/ai_timelines/hardware_and_ai_timelines/computing_capacity_of_all_gpus_and_tpus?utm_source=chatgpt.com)) — the billions of consumer devices worldwide represent a parallel, underutilized computing layer. These devices often sit idle but remain powered and capable of contributing to distributed computing platforms like GreenCloud.
 
+![Screenshot of GreenCloud devices pages](/images/green_cloud_devices.png)
+
 By harnessing this residual compute power, GreenCloud can transform everyday electronics into contributors to global computational tasks, offering both environmental benefits and financial incentives to users.
     
 ## 🌱 Sustainable and Rewarding
